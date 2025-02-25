@@ -1,4 +1,5 @@
 #Student Database Management System
+
 This project demonstrates how data structures can efficiently solve real-world problems. The system uses hashing for fast and effective data management and retrieval.
 
 Key Features:
